@@ -1,0 +1,12 @@
+# CrackVault v2.0 — Netanix lab
+# Install: pip install -r requirements.txt
+
+bcrypt>=4.0.0
+passlib>=1.7.4
+
+# Optional (install for specific file crackers):
+# pikepdf          # PDF cracking
+# rarfile          # RAR cracking (also needs 'unrar' binary)
+# py7zr            # 7-Zip cracking
+# msoffcrypto-tool # Office (.docx/.xlsx/.pptx) cracking
+# pykeepass        # KeePass (.kdbx) cracking
