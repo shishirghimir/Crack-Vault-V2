@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="CrackVault" width="600"/>
+  <img src="crackvault.png" alt="CrackVault" width="600"/>
 </p>
 
 <h1 align="center">CrackVault v2.0</h1>
@@ -15,10 +15,6 @@
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-00e676?style=flat-square" alt="Platform"/>
   <img src="https://img.shields.io/badge/license-MIT-yellow?style=flat-square" alt="License"/>
   <img src="https://img.shields.io/badge/tests-131%20passed-00e676?style=flat-square" alt="Tests"/>
-</p>
-
-<p align="center">
-  <img src="assets/screenshot.png" alt="CrackVault Screenshot" width="800"/>
 </p>
 
 ---
